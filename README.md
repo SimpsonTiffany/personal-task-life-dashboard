@@ -6,6 +6,19 @@ Project Description
 The Personal Task & Life Dashboard helps users streamline their daily workflow by providing a centralized dashboard for task management, quick notes, and personalized organization.
 The application supports layout customization, task categorization, reminders, and a basic AI-generated task summary.
 
+
+## Technology Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js (Express)  
+- **Database:** SQLite (development)  
+- **AI Integration:** OpenAI API (planned for task summaries)  
+- **Version Control:** Git & GitHub  
+- **Containerization:** Docker  
+- **Cloud Deployment:** Google Cloud Run  
+- **Project Management:** Jira  
+- **Documentation:** Confluence
+
+
 MVP Features (Sprint 1)
 The Minimum Viable Product (MVP) focuses on three core areas:
 1. Dashboard & User Interface
@@ -22,16 +35,9 @@ The Minimum Viable Product (MVP) focuses on three core areas:
 
 3. AI Insights (Basic Version)
   AI Task Summary (Simple text-generation summary)
+  
+> Note: The technology stack reflects the current MVP implementation and may evolve in future iterations.
 
- Technology Stack
-Backend: Python (FastAPI or Flask)
-Frontend: HTML, CSS, JavaScript
-Database: SQLite or Firestore
-AI Integration: OpenAI API (summaries)
-Containerization: Docker & Docker Compose
-Deployment: Google Cloud Run
-Version Control: Git & GitHub
-Project Management: Jira + Confluence
 
  Project Management Links
 Jira Project:
