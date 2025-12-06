@@ -35,7 +35,7 @@ The Minimum Viable Product (MVP) focuses on three core areas:
 
 3. AI Insights (Basic Version)
   AI Task Summary (Simple text-generation summary)
-  
+
 > Note: The technology stack reflects the current MVP implementation and may evolve in future iterations.
 
 
@@ -45,13 +45,25 @@ https://simpsontiffany84.atlassian.net/jira/software/projects/SCRUM/boards/1/bac
 Confluence Space:
 https://simpsontiffany84.atlassian.net/wiki/spaces/PTLODD/pages/393219/Project+Overview+-+Personal+Task+Life+Organization+Dashboard
 
- Installation Instructions
-git clone https://github.com/SimpsonTiffany/personal-task-life-dashboard.git
-cd personal-task-life-dashboard
-pip install -r requirements.txt
-python app.py
 
- Repository Structure
+
+
+## Local Setup Instructions
+
+### Prerequisites
+- Node.js
+- npm
+- Git
+- Docker (optional, for containerized runs)
+
+### Installation
+
+- Run: git clone https://github.com/SimpsonTiffany/personal-task-life-dashboard.git`
+- Run: cd personal-task-life-dashboard`
+- Run: npm install`
+
+
+Repository Structure
 /personal-task-life-dashboard
    ├── backend/
    ├── frontend/
