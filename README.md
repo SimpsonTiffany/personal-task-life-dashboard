@@ -53,3 +53,6 @@ python app.py
    ├── README.md
    ├── .gitignore
    └── Dockerfile (later)
+## MVP Scope
+
+This project represents a Minimum Viable Product (MVP) created to demonstrate core task and life organization functionality and modern development workflows, including Git branching, Docker containerization, cloud deployment, Agile project management, and AI-assisted development. The focus is proof of concept rather than a full production-ready system.
