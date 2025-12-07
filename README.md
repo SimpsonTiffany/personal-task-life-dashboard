@@ -74,3 +74,11 @@ Repository Structure
 ## MVP Scope
 
 This project represents a Minimum Viable Product (MVP) created to demonstrate core task and life organization functionality and modern development workflows, including Git branching, Docker containerization, cloud deployment, Agile project management, and AI-assisted development. The focus is proof of concept rather than a full production-ready system.
+
+## Cloud Deployment
+The application has been deployed to Google Cloud Run as part of the MVP workflow.
+
+**Cloud Run URL:**  
+https://personal-task-life-dashboard-861437902916.europe-west1.run.app
+
+> Note: As an MVP, the deployment may be incomplete or unstable. The focus is on demonstrating cloud deployment tooling rather than production readiness.
